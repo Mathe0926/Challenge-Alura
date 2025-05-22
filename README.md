@@ -51,7 +51,7 @@ Este projeto tem como objetivo analisar dados de vendas de diferentes lojas util
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/analise-vendas.git
+https://github.com/Mathe0926/Challenge-Alura.git
 ```
 
 2. Instale as dependências:
