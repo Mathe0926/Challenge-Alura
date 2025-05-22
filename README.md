@@ -1,8 +1,4 @@
 # Challenge-Alura
-Claro! Aqui está um modelo de `README.md` profissional e simples para apresentar seu projeto de análise de vendas com Python. Você pode adaptar conforme for acrescentando mais funcionalidades:
-
----
-
 ## 🛒 Análise de Vendas e Faturamento com Python
 
 Este projeto tem como objetivo analisar dados de vendas de diferentes lojas utilizando Python e bibliotecas como **Pandas**, **Matplotlib** e **Seaborn**. Os dados incluem informações como produtos, preços, fretes, avaliações e datas de compra.
